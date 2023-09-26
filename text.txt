@@ -1,0 +1,10 @@
+git config --list
+git config --global user.name "name"
+git config --global user.email "email"
+
+folder dotroo gitbash aa neegeed
+git init
+git add .
+git status
+git commit -m "first commit"
+
